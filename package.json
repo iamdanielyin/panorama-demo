@@ -1,0 +1,28 @@
+{
+  "name": "panorama-demo",
+  "version": "1.0.0",
+  "description": "全景图展示项目",
+  "main": "app.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinfxs/panorama-demo.git"
+  },
+  "keywords": [
+    "panorama"
+  ],
+  "author": "yinfxs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yinfxs/panorama-demo/issues"
+  },
+  "homepage": "https://github.com/yinfxs/panorama-demo#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "jquery": "^2.2.3",
+    "qiniu": "^6.1.10"
+  }
+}
