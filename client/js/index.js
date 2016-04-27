@@ -14,6 +14,7 @@ pannellum.viewer('panorama', {
         "cubeResolution": 1704
     },
     "autoLoad": true,
+    "compass": true,
     "autoRotate": -2,
     "title": "基于开源ThreeJS全景图展示开发",
     "author": "yinfxs"
