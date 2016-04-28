@@ -5,13 +5,13 @@
 pannellum.viewer('panorama', {
     "type": "multires",
     "multiRes": {
-        "basePath": "/images/R0010020_20160307125604_OUTPUT",
+        "basePath": "/images/DSC03456-HDR+Panorama_512_OUTPUT",
         "path": "/%l/%s%y_%x",
         "fallbackPath": "/fallback/%s",
         "extension": "jpg",
         "tileResolution": 512,
-        "maxLevel": 3,
-        "cubeResolution": 1704
+        "maxLevel": 5,
+        "cubeResolution": 4664
     },
     "autoLoad": true,
     "compass": true,
